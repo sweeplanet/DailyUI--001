@@ -1,0 +1,71 @@
+/********************TAG SELECTOR********************/
+body{
+  background-image: url(../images/fondo.jpg);
+  font-family: 'Lora', serif;
+}
+
+a{
+  font-size: 12PX;
+}
+
+p{
+  line-height: 1;
+}
+
+.columna-sign-up{
+  text-align: center;
+  border-radius: 20px;
+  position: relative;
+  background-color: white;
+}
+.contenedor{
+  width: 20%;
+  text-align: center;
+  position: relative;
+  margin-top: 100px;
+}
+
+.titulo-sign{
+  color: white;
+  padding-bottom: 30px;
+}
+
+.form-control{
+  border: 0;
+  border-bottom: 1px solid;
+  border-color: #225D6F;
+}
+
+.form-control:focus {
+  border: 0;
+  border-bottom: 2px solid;
+  border-color: #37A092;
+  box-shadow: none;
+}
+
+.primerform{
+  padding-top: 20px;
+}
+
+.boton-signup{
+  margin-bottom: 20px;
+  background-color: #1F415D;
+}
+
+.boton-signup:hover{
+  background-color: #246A76;
+}
+
+.accountexist{
+  color: grey;
+  margin-top: 14px;
+}
+
+.loginex{
+  font-size: 16px;
+  color: #1F415D;
+}
+
+.loginex:hover{
+  color: #FFFFFF;
+}
